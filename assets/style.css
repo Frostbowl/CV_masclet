@@ -65,3 +65,25 @@ img{
 img:hover{
     cursor: zoom-in;
 }
+
+
+#right{
+    background-color: #782221;
+    color: #dbc2a4;
+    display: flex;
+    flex-direction: column;
+    width: 336px;
+    padding-right: 50px;
+}
+
+h2{
+    color: black;
+    background-color: #dbc2a4;
+    padding-left: 15px;
+}
+
+p{
+    text-indent: 20px;
+    text-align: justify;
+    margin-left: 20px;
+}
